@@ -117,6 +117,6 @@ Outside of my policy and development work, I am deeply interested in exploring t
 
 ---
 
-> _“Policy is not merely about governance — it’s about empowering people through knowledge, participation, and purpose.”_
+> _“Policy is not merely about governance — it’s about empowering people through knowledge, participation and purpose.”_
 
 ---
