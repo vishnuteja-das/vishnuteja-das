@@ -26,7 +26,7 @@
 <p align="center" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee); padding:10px; border-radius:8px;">
 I’m a Public Policy professional and Technology enthusiast passionate about advancing Inclusive development, Good governance and Community empowerment through evidence-based policymaking and innovation.
 
-With a unique blend of policy analysis and technical expertise, I aim to bridge the gap between **data, governance, and grassroots action**. My work revolves around designing and implementing sustainable solutions for **BPL families, PVTGs and rural entrepreneurs**.
+With a unique blend of policy analysis and technical expertise, I aim to bridge the gap between **data, governance and grassroots action**. My work revolves around designing and implementing sustainable solutions for **BPL families, PVTGs and rural entrepreneurs**.
 </p>
 
 <p align="center">
