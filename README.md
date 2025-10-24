@@ -106,13 +106,13 @@ LinkedIn - https://www.linkedin.com/in/vishnuteja-v-16ba72111 <br>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Policy Fact
 <p align="center" style="background: linear-gradient(to right, #00c6ff, #0072ff); padding:10px; border-radius:8px;">
 Outside of my policy and development work, I am deeply interested in exploring the social and economic forces that shape our society.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="fun gif" width="300"/>
+  <img src="https://github.com/vishnuteja-das/vishnuteja-das/blob/main/Vishnuteja.JPG" alt="fun gif" width="300"/>
 </p>
 
 ---
