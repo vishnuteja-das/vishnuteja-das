@@ -12,7 +12,7 @@
 👋 Hi, I'm Vishnuteja V
 </h1>
 
-🎓 **Master’s in Public Policy (MPP)** — *National Law School of India University, Bengaluru*  
+🎓 **Master of Public Policy (MPP)** — *National Law School of India University, Bengaluru*  
 💻 **B.E. in Information Science and Engineering** — *Dayananda Sagar College of Engineering, Bengaluru*  
 🌏 Based in **Bengaluru/Kalaburagi, Karnataka, India**
 
