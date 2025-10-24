@@ -30,7 +30,7 @@ With a unique blend of policy analysis and technical expertise, I aim to bridge 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="policy gif" width="300"/>
+  <img src="https://github.com/vishnuteja-das/vishnuteja-das/blob/main/community.jpg" width="300"/>
 </p>
 
 ---
