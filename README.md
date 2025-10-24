@@ -74,7 +74,7 @@ Languages: English, Hindi, Kannada, Telugu
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="skills gif" width="300"/>
+  <img src="https://github.com/vishnuteja-das/vishnuteja-das/blob/main/skills.gif" alt="skills gif" width="300"/>
 </p>
 
 ---
